@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{Wo83:function(e,a,n){"use strict";n.r(a);var t=n("qXvc");a.default=function(e){e.data.allMarkdownRemark.edges;return React.createElement(React.Fragment,null,React.createElement(t.a,null),React.createElement("h2",null," Blog Pages being Modified Stay Tuned"))}}}]);
+//# sourceMappingURL=component---src-pages-blogs-js-21b9e9b7f6f48f9d5916.js.map
